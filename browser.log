@@ -1,0 +1,7 @@
+2022-08-30 15:16:59,682,INFO,We are successfully connected with db <mysql.connector.connection_cext.CMySQLConnection object at 0x000001D270039970>
+2022-08-30 15:16:59,698,INFO,[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5003
+2022-08-30 15:16:59,698,INFO,[33mPress CTRL+C to quit[0m
+2022-08-30 15:17:46,411,INFO,127.0.0.1 - - [30/Aug/2022 15:17:46] "GET /display?db_name=anubhav%20&table_name=python HTTP/1.1" 200 -
+2022-08-30 15:17:46,425,INFO,127.0.0.1 - - [30/Aug/2022 15:17:46] "[33mGET /favicon.ico HTTP/1.1[0m" 404 -
+2022-08-30 15:18:14,201,INFO,127.0.0.1 - - [30/Aug/2022 15:18:14] "GET /display?db_name=anubhav%20&table_name=bank_full HTTP/1.1" 200 -
